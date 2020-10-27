@@ -1,0 +1,20 @@
+﻿  MyForm.cpp
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(684,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(685,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(775,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(776,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(876,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(881,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(924,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(1018,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(1019,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(62): warning C4715: Project6::MyFunction2::getValueFun: значение возвращается не при всех путях выполнения
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(1053): warning C4715: Project6::getHistogram: значение возвращается не при всех путях выполнения
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(1113): warning C4715: Project6::funDensity: значение возвращается не при всех путях выполнения
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(1122): warning C4715: Project6::funDistribution: значение возвращается не при всех путях выполнения
+C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Project6\MyForm.h(1131): warning C4715: Project6::funDensityCsi: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project6.vcxproj -> C:\Users\far-a\Desktop\НОВАЯ ЛАБА ПО ТВ\Project6\Debug\Project6.exe
